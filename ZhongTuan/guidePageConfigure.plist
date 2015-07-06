@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry_btn</key>
+	<dict>
+		<key>interval</key>
+		<real>1</real>
+		<key>bg_bright</key>
+		<string>btn_guide_bright</string>
+		<key>bg_dark</key>
+		<string>btn_guide_dark</string>
+	</dict>
+	<key>pages</key>
+	<array>
+		<string>guide1</string>
+		<string>guide2</string>
+		<string>guide3</string>
+		<string>guide4</string>
+		<string>guide5</string>
+	</array>
+</dict>
+</plist>
